@@ -1,12 +1,14 @@
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=Munckenh&color=red)
-    
-</div>
-
 ### Hi there 👋
 
-My name is Kenneth. As of writing, I'm a student at the University of San Carlos taking the program of Bachelor of Science in Computer Science. I start projects but either leave them unfinished or do not upload them here on GitHub. 
+<div align="center">
+  <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="200" height="auto">
+
+  ![](https://komarev.com/ghpvc/?username=Munckenh&color=red)
+  
+</div>
+
+
+My name is Kenneth. As of writing, I'm a student at the University of San Carlos taking the program of Bachelor of Science in Computer Science. I start projects but either leave them unfinished or do not upload them here on GitHub.
 
 ### Projects
 
@@ -19,11 +21,11 @@ Here are a few projects I've actually uploaded though:
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
