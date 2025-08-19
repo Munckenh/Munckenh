@@ -14,7 +14,7 @@ I'm Kenneth, and I'm a student at the University of San Carlos taking the progra
 
 If you want to say thanks, you can buy me a coffee.
 
-[<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" width="200">](https://ko-fi.com/munckenh)
+<a href='https://ko-fi.com/munckenh' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Support me at ko-fi.com' /></a>
 
 ## Projects
 
